@@ -1,0 +1,19 @@
+{
+    "name": "andrei/composer",
+    "description": "\"Домашнее задание по Composer\"",
+    "require-dev": {
+        "psr/log": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andrei\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andrei ivanov"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
